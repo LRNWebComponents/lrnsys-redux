@@ -1,0 +1,26 @@
+{
+  "name": "lrnsys-redux",
+  "version": "1.0.0",
+  "description": "<!-- ``` <custom-element-demo>   <template>     <link rel=\"import\" href=\"lrnsys-redux.html\">     <next-code-block></next-code-block>   </template> </custom-element-demo> ``` --> ```html <lrnsys-redux></lrnsys-redux> ```",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRNWebComponents/lrnsys-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LRNWebComponents/lrnsys-redux/issues"
+  },
+  "homepage": "https://github.com/LRNWebComponents/lrnsys-redux#readme",
+  "dependencies": {
+    "redux": "^3.7.2"
+  }
+}
